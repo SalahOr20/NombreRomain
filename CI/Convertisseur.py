@@ -3,7 +3,7 @@ def convertir(nombre):
         return 'I'*nombre
 
     if nombre == 4:
-        return 'IV'
+        return 'IVI'
 
     if nombre <= 8:
         return 'V' + 'I'*(nombre-5)
