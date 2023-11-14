@@ -1,6 +1,6 @@
 def convertir(nombre):
     if nombre <= 3:
-        return 'I'*nombre
+        return 'II'*nombre
 
     if nombre == 4:
         return 'IV'
